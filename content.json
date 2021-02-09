@@ -1,0 +1,28 @@
+[
+    {
+        "photo": "content/13219.jpg",
+        "title": "Wild river",
+        "description": "A wild river in the Norvagien fyords."
+    },
+    {
+        "photo": "content/81234.jpg",
+        "title": "Solar eclipse",
+        "description": "Solar eclipse form an other planet"
+    },
+    {
+        "photo": "content/127573.jpg",
+        "title": "My title",
+        "description": "What happened here, why is this a very nice image"
+    },
+    {
+        "photo": "content/127577.jpg",
+        "title": "Amusement park",
+        "description": "This amusement park scare you, isn't it?"
+    },
+    {
+        "photo": "content/127579.jpg",
+        "title": "A bridge",
+        "description": "Nightlife of the big city"
+    }
+
+]
